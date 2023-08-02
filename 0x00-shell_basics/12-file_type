@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "touch /tmp/iamafile"
+touch /tmp/iamafile
