@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Absolute path of the current directory: $current_directory"
+echo "Absolute path of the current directory: $current_directory\n"
 
